@@ -1,0 +1,470 @@
+{
+  "auth": [
+    {
+      "id": 1,
+      "rol": "admin",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEyMzQ1Njc4OTAiLCJuYW1lIjoiSm9obiBEb2UiLCJwYXNzd29yZCI6IjEyMyIsInJvbCI6MSwicHJvZmlsZSI6MiwiaXRlbXMiOlt7Im1vZHVsbyI6IkluaWNpbyIsImxpbmsiOiIvaW5pY2lvIiwiaWNvbm8iOiJob21lIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIn0seyJtb2R1bG8iOiJQcm9jZXNvcyIsImxpbmsiOiIvcHJvY2Vzb3MiLCJpY29ubyI6IndhdGNoX2xhdGVyIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIn0seyJtb2R1bG8iOiJSZXBvcnRlcyIsImxpbmsiOiIvcmVwb3J0ZXMiLCJpY29ubyI6ImRvbnV0X3NtYWxsIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIn0seyJtb2R1bG8iOiJNb25pdG9yZW8iLCJsaW5rIjoiL21vbml0b3JlbyIsImljb25vIjoiY2FsZW5kYXJfbW9udGgiLCJmZWNoYV9jcmVhY2lvbiI6IjEyLTEyLTIwMjMifSx7Im1vZHVsbyI6IlNlZ3VyaWRhZCIsImxpbmsiOiIvc2VndXJpZGFkIiwiaWNvbm8iOiJsb2NrIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIiwiY2hpbGRzIjpbeyJtb2R1bG8iOiJNYW50ZW5pbWllbnRvIiwibGluayI6Ii9zZWd1cmlkYWQvbWFudGVuaW1pZW50byIsImljb25vIjoiZG9udXRfc21hbGwiLCJmZWNoYV9jcmVhY2lvbiI6IjEyLTEyLTIwMjMifSx7Im1vZHVsbyI6IlBlcm1pc29zIiwibGluayI6Ii9zZWd1cmlkYWQvYXNpZ25hY2lvbiIsImljb25vIjoiY2FsZW5kYXJfbW9udGgiLCJmZWNoYV9jcmVhY2lvbiI6IjEyLTEyLTIwMjMifV19LHsibW9kdWxvIjoiQ29uZmlndXJhY2nDs24iLCJsaW5rIjoiL2NvbmZpZ3VyYWNpb24iLCJpY29ubyI6InNldHRpbmdzIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIn1dfQ.V_ggHhB2rVlIT89m-1RjRT14qbJolXdL2corJwI8e24"
+    },
+    {
+      "id": 2,
+      "rol": "visor",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEyMzQ1Njc4OTAiLCJuYW1lIjoiSm9obiBEb2UiLCJwYXNzd29yZCI6IjEyMyIsInJvbCI6MiwicHJvZmlsZSI6MCwiaXRlbXMiOlt7Im1vZHVsbyI6IkluaWNpbyIsImxpbmsiOiIvaW5pY2lvIiwiaWNvbm8iOiJob21lIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIn0seyJtb2R1bG8iOiJQcm9jZXNvcyIsImxpbmsiOiIvcHJvY2Vzb3MiLCJpY29ubyI6IndhdGNoX2xhdGVyIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIn0seyJtb2R1bG8iOiJSZXBvcnRlcyIsImxpbmsiOiIvcmVwb3J0ZXMiLCJpY29ubyI6ImRvbnV0X3NtYWxsIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIn0seyJtb2R1bG8iOiJNb25pdG9yZW8iLCJsaW5rIjoiL21vbml0b3JlbyIsImljb25vIjoiY2FsZW5kYXJfbW9udGgiLCJmZWNoYV9jcmVhY2lvbiI6IjEyLTEyLTIwMjMifV19.lC9xLEl4X_rf2LzfDQ_UeKUCUK1Rb4quFwHhYdPYU8k"
+    }
+  ],
+  "autorizacion": [
+    {
+      "modulo": "Inicio",
+      "link": "/inicio",
+      "icono": "home",
+      "fecha_creacion": "12-12-2023"
+    },
+    {
+      "modulo": "Procesos",
+      "link": "/procesos",
+      "icono": "watch_later",
+      "fecha_creacion": "12-12-2023"
+    },
+    {
+      "modulo": "Reportes",
+      "link": "/reportes",
+      "icono": "donut_small",
+      "fecha_creacion": "12-12-2023"
+    },
+    {
+      "modulo": "Monitoreo",
+      "link": "/monitoreo",
+      "icono": "calendar_month",
+      "fecha_creacion": "12-12-2023"
+    },
+    {
+      "modulo": "Seguridad",
+      "link": "/seguridad",
+      "icono": "lock",
+      "fecha_creacion": "12-12-2023",
+      "childs": [
+        {
+          "modulo": "Mantenimiento",
+          "link": "/seguridad/mantenimiento",
+          "icono": "donut_small",
+          "fecha_creacion": "12-12-2023"
+        },
+        {
+          "modulo": "Permisos",
+          "link": "/seguridad/asignacion",
+          "icono": "calendar_month",
+          "fecha_creacion": "12-12-2023"
+        }
+      ]
+    },
+    {
+      "text": "Configuración",
+      "link": "/configuracion",
+      "icon": "settings"
+    }
+  ],
+  "funcionalidad": [
+    {
+      "modulo": "Procesos",
+      "link": "/procesos",
+      "icono": "watch_later",
+      "fecha_creacion": "12-12-2023"
+    },
+    {
+      "modulo": "Reportes",
+      "link": "/reportes",
+      "icono": "donut_small",
+      "fecha_creacion": "12-12-2023"
+    },
+    {
+      "modulo": "Monitoreo",
+      "link": "/monitoreo",
+      "icono": "calendar_month",
+      "fecha_creacion": "12-12-2023"
+    },
+    {
+      "modulo": "Seguridad",
+      "link": "/seguridad",
+      "icono": "lock",
+      "fecha_creacion": "12-12-2023"
+    },
+    {
+      "modulo": "Mantenimiento",
+      "link": "/seguridad/mantenimiento",
+      "icono": "donut_small",
+      "fecha_creacion": "12-12-2023"
+    },
+    {
+      "modulo": "Permisos",
+      "link": "/seguridad/asignacion",
+      "icono": "calendar_month",
+      "fecha_creacion": "12-12-2023"
+    },
+    {
+      "modulo": "Configuración",
+      "link": "/configuracion",
+      "icono": "settings",
+      "fecha_creacion": "12-12-2023"
+    }
+  ],
+  "procesos": [
+    {
+      "id": 1,
+      "vista": "Proceso consolidado",
+      "tipo_vista": "1",
+      "endpoint": "/procesos/rcc"
+    },
+    {
+      "id": 2,
+      "vista": "Comparativo operativo contable",
+      "tipo_vista": "2",
+      "endpoint": "/procesos/operaconta"
+    },
+    {
+      "id": 3,
+      "vista": "Reprogramados",
+      "tipo_vista": "3",
+      "endpoint": "/procesos/repro"
+    },
+    {
+      "id": 4,
+      "vista": "Diferidos",
+      "tipo_vista": "4",
+      "endpoint": "/procesos/diferidos"
+    },
+    {
+      "id": 5,
+      "vista": "Facturación electrónica",
+      "tipo_vista": "5",
+      "endpoint": "/procesos/factuelectro"
+    },
+    {
+      "id": 6,
+      "vista": "RCD",
+      "tipo_vista": "6",
+      "endpoint": "/procesos/rcd"
+    }
+  ],
+  "proceso-operaconta": [
+    {
+      "cuenta_contable": "123456789321",
+      "descripcion": "lorem ipsum dfef ded ",
+      "fecha_proceso": "12/12/2023",
+      "saldo_operativo_PEN": "6541.20",
+      "saldo_operativo_DOL": "1841.20",
+      "saldo_contable": "1841.20"
+    },
+    {
+      "cuenta_contable": "123456789321",
+      "descripcion": "lorem ipsum dfef ded ",
+      "fecha_proceso": "12/12/2023",
+      "saldo_operativo_PEN": "6541.20",
+      "saldo_operativo_DOL": "1841.20",
+      "saldo_contable": "1841.20"
+    },
+    {
+      "cuenta_contable": "123456789321",
+      "descripcion": "lorem ipsum dfef ded ",
+      "fecha_proceso": "12/12/2023",
+      "saldo_operativo_PEN": "6541.20",
+      "saldo_operativo_DOL": "1841.20",
+      "saldo_contable": "1841.20"
+    },
+    {
+      "cuenta_contable": "123456789321",
+      "descripcion": "lorem ipsum dfef ded ",
+      "fecha_proceso": "12/12/2023",
+      "saldo_operativo_PEN": "6541.20",
+      "saldo_operativo_DOL": "1841.20",
+      "saldo_contable": "1841.20"
+    }
+  ],
+  "reportes": [
+    {
+      "id": 1,
+      "vista": "Reporte crediticio consolidado (RCC)",
+      "tipo_vista": "1",
+      "endpoint": "/reporte-rcc"
+    },
+    {
+      "id": 2,
+      "vista": "Comparativo operativo contable",
+      "tipo_vista": "1",
+      "endpoint": "/reporte-operaconta"
+    },
+    {
+      "id": 3,
+      "vista": "Reportes eprogramados",
+      "tipo_vista": "1",
+      "endpoint": "/reporte-repro"
+    },
+    {
+      "id": 4,
+      "vista": "Reportes diferidos",
+      "tipo_vista": "1",
+      "endpoint": "/reporte-diferidos"
+    },
+    {
+      "id": 5,
+      "vista": "Facturación electrónica",
+      "tipo_vista": "1",
+      "endpoint": "/reporte-factuelectro"
+    },
+    {
+      "id": 5,
+      "vista": "RCD",
+      "tipo_vista": "1",
+      "endpoint": "/reporte-rcd"
+    }
+  ],
+  "reporte-operaconta": [
+    {
+      "tipo_documento": "DNI",
+      "numero_documento": "123457851",
+      "codigo_SBS": "000123",
+      "apellido_paterno": "gomez",
+      "apellido_materno": "lara",
+      "nombres": "John",
+      "detalle": [
+        {
+          "informacion_deudor": [
+            {
+              "ano": "2023",
+              "mes": "noviembre",
+              "tipo_persona": "natural",
+              "tipo_empresa": "jurídica",
+              "Deuda_clasificacion0": "100.00",
+              "Deuda_clasificacion1": "100.00",
+              "Deuda_clasificacion2": "100.00",
+              "Deuda_clasificacion3": "100.00",
+              "Deuda_clasificacion4": "100.00"
+            }
+          ],
+          "informacion_entidad": [
+            {
+              "Codigo": "001",
+              "entidad_reportante": "banco uno",
+              "tipo_credito": "hipotecario",
+              "cuenta_contable": "191123456789",
+              "dias_atraso": "10",
+              "saldo": "0.00"
+            },
+            {
+              "Codigo": "0010",
+              "entidad_reportante": "banco dos",
+              "tipo_credito": "vehicular",
+              "cuenta_contable": "191456789123",
+              "dias_atraso": "90",
+              "saldo": "0.00"
+            },
+            {
+              "Codigo": "011",
+              "entidad_reportante": "banco tres",
+              "tipo_credito": "hipotecario",
+              "cuenta_contable": "191789123456",
+              "dias_atraso": "0",
+              "saldo": "0.00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "reporte-rcc": [
+    {
+      "tipo_doc": "DNI",
+      "Numero_doc": "123457857",
+      "Apellido_paterno": "gomez",
+      "Apellido_materno": "lara",
+      "Nombre": "John",
+      "Detalle": [
+        {
+          "informacion_deudor": [
+            {
+              "ano": "2023",
+              "mes": "noviembre",
+              "tipo_persona": "natural",
+              "tipo_empresa": "jurídica",
+              "Deuda_clasificacion0": "100.00",
+              "Deuda_clasificacion1": "100.00",
+              "Deuda_clasificacion2": "100.00",
+              "Deuda_clasificacion3": "100.00",
+              "Deuda_clasificacion4": "100.00"
+            }
+          ],
+          "informacion_entidad": [
+            {
+              "Codigo": "001",
+              "entidad_reportante": "banco uno",
+              "tipo_credito": "hipotecario",
+              "cuenta_contable": "191123456789",
+              "dias_atraso": "10",
+              "saldo": "0.00"
+            },
+            {
+              "Codigo": "0010",
+              "entidad_reportante": "banco dos",
+              "tipo_credito": "vehicular",
+              "cuenta_contable": "191456789123",
+              "dias_atraso": "90",
+              "saldo": "0.00"
+            },
+            {
+              "Codigo": "011",
+              "entidad_reportante": "banco tres",
+              "tipo_credito": "hipotecario",
+              "cuenta_contable": "191789123456",
+              "dias_atraso": "0",
+              "saldo": "0.00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "operaconta": [
+    {
+      "tipo_doc": "DNI",
+      "Numero_doc": "12345785",
+      "Apellido_paterno": "gomez",
+      "Apellido_materno": "lara",
+      "Nombre": "John",
+      "Detalle": [
+        {
+          "informacion_deudor": [
+            {
+              "ano": "2023",
+              "mes": "noviembre",
+              "tipo_persona": "natural",
+              "tipo_empresa": "jurídica",
+              "Deuda_clasificacion0": "100.00",
+              "Deuda_clasificacion1": "100.00",
+              "Deuda_clasificacion2": "100.00",
+              "Deuda_clasificacion3": "100.00",
+              "Deuda_clasificacion4": "100.00"
+            }
+          ],
+          "informacion_entidad": [
+            {
+              "Codigo": "001",
+              "entidad_reportante": "banco uno",
+              "tipo_credito": "hipotecario",
+              "cuenta_contable": "191123456789",
+              "dias_atraso": "10",
+              "saldo": "0.00"
+            },
+            {
+              "Codigo": "0010",
+              "entidad_reportante": "banco dos",
+              "tipo_credito": "vehicular",
+              "cuenta_contable": "191456789123",
+              "dias_atraso": "90",
+              "saldo": "0.00"
+            },
+            {
+              "Codigo": "011",
+              "entidad_reportante": "banco tres",
+              "tipo_credito": "hipotecario",
+              "cuenta_contable": "191789123456",
+              "dias_atraso": "0",
+              "saldo": "0.00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "reporte-crediconso": [
+    {
+      "id": "1",
+      "tipo_doc": "123456789321",
+      "num_doc": "lorem ipsum dfef ded ",
+      "ape_materno": "12/12/2023",
+      "ape_paterno": "12/12/2023",
+      "nombres": "6541.20"
+    },
+    {
+      "id": "2",
+      "tipo_doc": "123456789321",
+      "num_doc": "lorem ipsum dfef ded ",
+      "ape_materno": "12/12/2023",
+      "ape_paterno": "12/12/2023",
+      "nombres": "6541.20"
+    },
+    {
+      "id": "3",
+      "tipo_doc": "123456789321",
+      "num_doc": "lorem ipsum dfef ded ",
+      "ape_materno": "12/12/2023",
+      "ape_paterno": "12/12/2023",
+      "nombres": "6541.20"
+    },
+    {
+      "id": "4",
+      "tipo_doc": "123456789321",
+      "num_doc": "lorem ipsum dfef ded ",
+      "ape_materno": "12/12/2023",
+      "ape_paterno": "12/12/2023",
+      "nombres": "6541.20"
+    },
+    {
+      "id": "5",
+      "tipo_doc": "123456789321",
+      "num_doc": "lorem ipsum dfef ded ",
+      "ape_materno": "12/12/2023",
+      "ape_paterno": "12/12/2023",
+      "nombres": "6541.20"
+    }
+  ],
+  "ejemplo-reporte": [
+    {
+      "tipo_doc": "DNI",
+      "Numero_doc": "12345785",
+      "Apellido_paterno": "gomez",
+      "Apellido_materno": "lara",
+      "Nombre": "John",
+      "Detalle": [
+        {
+          "informacion_deudor": [
+            {
+              "ano": "2023",
+              "mes": "noviembre",
+              "tipo_persona": "natural",
+              "tipo_empresa": "jurídica",
+              "Deuda_clasificacion0": "100.00",
+              "Deuda_clasificacion1": "100.00",
+              "Deuda_clasificacion2": "100.00",
+              "Deuda_clasificacion3": "100.00",
+              "Deuda_clasificacion4": "100.00"
+            }
+          ],
+          "informacion_entidad": [
+            {
+              "Codigo": "001",
+              "entidad_reportante": "banco uno",
+              "tipo_credito": "hipotecario",
+              "cuenta_contable": "191123456789",
+              "dias_atraso": "10",
+              "saldo": "0.00"
+            },
+            {
+              "Codigo": "0010",
+              "entidad_reportante": "banco dos",
+              "tipo_credito": "vehicular",
+              "cuenta_contable": "191456789123",
+              "dias_atraso": "90",
+              "saldo": "0.00"
+            },
+            {
+              "Codigo": "011",
+              "entidad_reportante": "banco tres",
+              "tipo_credito": "hipotecario",
+              "cuenta_contable": "191789123456",
+              "dias_atraso": "0",
+              "saldo": "0.00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
