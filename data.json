@@ -111,13 +111,13 @@
       "id": 1,
       "vista": "Proceso consolidado",
       "tipo_vista": "1",
-      "endpoint": "/procesos/rcc"
+      "endpoint": "/proceso-rcc"
     },
     {
       "id": 2,
       "vista": "Comparativo operativo contable",
       "tipo_vista": "2",
-      "endpoint": "/procesos/operaconta"
+      "endpoint": "/proceso-operaconta"
     },
     {
       "id": 3,
@@ -144,6 +144,38 @@
       "endpoint": "/procesos/rcd"
     }
   ],
+  "proceso-rcc": [
+    {
+      "cuenta_contable": "12345678932",
+      "descripcion": "lorem ipsum dfef ded rtyrtyry rty rtyry rty",
+      "tipo_campo": "12/12/2023",
+      "saldo_contable": "1841.20"
+    },
+    {
+      "cuenta_contable": "12346789321",
+      "descripcion": "lorem ipsum dfef ded y",
+      "tipo_campo": "12/12/2023",
+      "saldo_contable": "11.20"
+    },
+    {
+      "cuenta_contable": "12345689321",
+      "descripcion": "lorem ipsum dfef ded rthyrt rt",
+      "tipo_campo": "12/12/2023",
+      "saldo_contable": "181.20"
+    },
+    {
+      "cuenta_contable": "12345678921",
+      "descripcion": "lorem ipsum dfef ded rtyrtyry",
+      "tipo_campo": "12/12/2023",
+      "saldo_contable": "141.20"
+    },
+    {
+      "cuenta_contable": "23456789321",
+      "descripcion": "lorem ipsum dfef ded rtyry r r htht  ",
+      "tipo_campo": "12/12/2023",
+      "saldo_contable": "841.20"
+    }
+  ],
   "proceso-operaconta": [
     {
       "cuenta_contable": "123456789321",
@@ -151,7 +183,7 @@
       "fecha_proceso": "12/12/2023",
       "saldo_operativo_PEN": "6541.20",
       "saldo_operativo_DOL": "1841.20",
-      "saldo_contable": "1841.20"
+      "saldo_contable": "841.20"
     },
     {
       "cuenta_contable": "123456789321",
@@ -159,7 +191,7 @@
       "fecha_proceso": "12/12/2023",
       "saldo_operativo_PEN": "6541.20",
       "saldo_operativo_DOL": "1841.20",
-      "saldo_contable": "1841.20"
+      "saldo_contable": "184.20"
     },
     {
       "cuenta_contable": "123456789321",
@@ -167,7 +199,7 @@
       "fecha_proceso": "12/12/2023",
       "saldo_operativo_PEN": "6541.20",
       "saldo_operativo_DOL": "1841.20",
-      "saldo_contable": "1841.20"
+      "saldo_contable": "11.20"
     },
     {
       "cuenta_contable": "123456789321",
@@ -175,7 +207,7 @@
       "fecha_proceso": "12/12/2023",
       "saldo_operativo_PEN": "6541.20",
       "saldo_operativo_DOL": "1841.20",
-      "saldo_contable": "1841.20"
+      "saldo_contable": "141.20"
     }
   ],
   "reportes": [
@@ -465,6 +497,44 @@
           ]
         }
       ]
+    }
+  ],
+  "monitoreo":[
+    {
+      "id": 1,
+      "fecha_proceso": "10-10-2023",
+      "proceso": "Carga tabla AA",
+      "fase": "Finalizado",
+      "estado": 0,
+      "secuencia": "456147547258",
+      "detalle": []
+    },
+    {
+      "id": 2,
+      "fecha_proceso": "10-10-2023",
+      "proceso": "carga tabla BB",
+      "fase": "Finalizado",
+      "estado": 0,
+      "secuencia": "34561457258",
+      "detalle": []
+    },
+    {
+      "id": 3,
+      "fecha_proceso": "10-10-2023",
+      "proceso": "carga tabla",
+      "fase": "En espera",
+      "estado": 0,
+      "secuencia": "123456147258",
+      "detalle": []
+    },
+    {
+      "id": 4,
+      "fecha_proceso": "10-10-2023",
+      "proceso": "carga tabla AA",
+      "fase": "Finalizado",
+      "estado": 1,
+      "secuencia": "23456147258",
+      "detalle": []
     }
   ]
 }
