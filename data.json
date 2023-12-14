@@ -3,12 +3,12 @@
     {
       "id": 1,
       "rol": "admin",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEyMzQ1Njc4OTAiLCJuYW1lIjoiSm9obiBEb2UiLCJwYXNzd29yZCI6IjEyMyIsInJvbCI6MSwicHJvZmlsZSI6MiwiaXRlbXMiOlt7Im1vZHVsbyI6IkluaWNpbyIsImxpbmsiOiIvaW5pY2lvIiwiaWNvbm8iOiJob21lIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIn0seyJtb2R1bG8iOiJQcm9jZXNvcyIsImxpbmsiOiIvcHJvY2Vzb3MiLCJpY29ubyI6IndhdGNoX2xhdGVyIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIn0seyJtb2R1bG8iOiJSZXBvcnRlcyIsImxpbmsiOiIvcmVwb3J0ZXMiLCJpY29ubyI6ImRvbnV0X3NtYWxsIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIn0seyJtb2R1bG8iOiJNb25pdG9yZW8iLCJsaW5rIjoiL21vbml0b3JlbyIsImljb25vIjoiY2FsZW5kYXJfbW9udGgiLCJmZWNoYV9jcmVhY2lvbiI6IjEyLTEyLTIwMjMifSx7Im1vZHVsbyI6IlNlZ3VyaWRhZCIsImxpbmsiOiIvc2VndXJpZGFkIiwiaWNvbm8iOiJsb2NrIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIiwiY2hpbGRzIjpbeyJtb2R1bG8iOiJNYW50ZW5pbWllbnRvIiwibGluayI6Ii9zZWd1cmlkYWQvbWFudGVuaW1pZW50byIsImljb25vIjoiZG9udXRfc21hbGwiLCJmZWNoYV9jcmVhY2lvbiI6IjEyLTEyLTIwMjMifSx7Im1vZHVsbyI6IlBlcm1pc29zIiwibGluayI6Ii9zZWd1cmlkYWQvYXNpZ25hY2lvbiIsImljb25vIjoiY2FsZW5kYXJfbW9udGgiLCJmZWNoYV9jcmVhY2lvbiI6IjEyLTEyLTIwMjMifV19LHsibW9kdWxvIjoiQ29uZmlndXJhY2nDs24iLCJsaW5rIjoiL2NvbmZpZ3VyYWNpb24iLCJpY29ubyI6InNldHRpbmdzIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIn1dfQ.V_ggHhB2rVlIT89m-1RjRT14qbJolXdL2corJwI8e24"
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEyMzQ1Njc4OTAiLCJuYW1lIjoiSm9obiBEb2UiLCJwYXNzd29yZCI6IjEyMyIsInJvbCI6MSwicHJvZmlsZSI6MiwiaXRlbXMiOlt7ImlkIjo5LCJub21icmVfZnVuY2lvbmFsaWRhZCI6IkluaWNpbyIsImxpbmsiOiIvaW5pY2lvIiwiaWNvbm8iOiJob21lIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIiwiZXN0YWRvIjoxfSx7ImlkIjoxLCJub21icmVfZnVuY2lvbmFsaWRhZCI6IlByb2Nlc29zIiwibGluayI6Ii9wcm9jZXNvcyIsImljb25vIjoid2F0Y2hfbGF0ZXIiLCJmZWNoYV9jcmVhY2lvbiI6IjEyLTEyLTIwMjMiLCJlc3RhZG8iOjF9LHsiaWQiOjIsIm5vbWJyZV9mdW5jaW9uYWxpZGFkIjoiUmVwb3J0ZXMiLCJsaW5rIjoiL3JlcG9ydGVzIiwiaWNvbm8iOiJkb251dF9zbWFsbCIsImZlY2hhX2NyZWFjaW9uIjoiMTItMTItMjAyMyIsImVzdGFkbyI6MX0seyJpZCI6Mywibm9tYnJlX2Z1bmNpb25hbGlkYWQiOiJNb25pdG9yZW8iLCJsaW5rIjoiL21vbml0b3JlbyIsImljb25vIjoiY2FsZW5kYXJfbW9udGgiLCJmZWNoYV9jcmVhY2lvbiI6IjEyLTEyLTIwMjMiLCJlc3RhZG8iOjF9LHsiaWQiOjQsIm5vbWJyZV9mdW5jaW9uYWxpZGFkIjoiU2VndXJpZGFkIiwibGluayI6Ii9zZWd1cmlkYWQiLCJpY29ubyI6ImxvY2siLCJmZWNoYV9jcmVhY2lvbiI6IjEyLTEyLTIwMjMiLCJlc3RhZG8iOjEsImNoaWxkcyI6W3siaWQiOjEsImlkX2Z1bmNpb25hbGlkYWQiOjQsIm5vbWJyZV9zdWJmdW5jaW9uYWxpZGFkIjoiTWFudGVuaW1pZW50byIsImxpbmsiOiIvc2VndXJpZGFkL21hbnRlbmltaWVudG8iLCJpY29ubyI6ImRvbnV0X3NtYWxsIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIiwiZXN0YWRvIjoxfSx7ImlkIjoyLCJpZF9mdW5jaW9uYWxpZGFkIjo0LCJub21icmVfc3ViZnVuY2lvbmFsaWRhZCI6IlBlcm1pc29zIiwibGluayI6Ii9zZWd1cmlkYWQvYXNpZ25hY2lvbiIsImljb25vIjoiY2FsZW5kYXJfbW9udGgiLCJmZWNoYV9jcmVhY2lvbiI6IjEyLTEyLTIwMjMiLCJlc3RhZG8iOjF9XX0seyJpZCI6NSwibm9tYnJlX2Z1bmNpb25hbGlkYWQiOiJDb25maWd1cmFjacOzbiIsImxpbmsiOiIvY29uZmlndXJhY2lvbiIsImljb25vIjoic2V0dGluZ3MiLCJmZWNoYV9jcmVhY2lvbiI6IjEyLTEyLTIwMjMiLCJlc3RhZG8iOjF9XX0.m2p4powIgQJJjCdrtyPZlMrLB0tLVAHY684fHglTDj4"
     },
     {
       "id": 2,
       "rol": "visor",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEyMzQ1Njc4OTAiLCJuYW1lIjoiSm9obiBEb2UiLCJwYXNzd29yZCI6IjEyMyIsInJvbCI6MiwicHJvZmlsZSI6MCwiaXRlbXMiOlt7Im1vZHVsbyI6IkluaWNpbyIsImxpbmsiOiIvaW5pY2lvIiwiaWNvbm8iOiJob21lIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIn0seyJtb2R1bG8iOiJQcm9jZXNvcyIsImxpbmsiOiIvcHJvY2Vzb3MiLCJpY29ubyI6IndhdGNoX2xhdGVyIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIn0seyJtb2R1bG8iOiJSZXBvcnRlcyIsImxpbmsiOiIvcmVwb3J0ZXMiLCJpY29ubyI6ImRvbnV0X3NtYWxsIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIn0seyJtb2R1bG8iOiJNb25pdG9yZW8iLCJsaW5rIjoiL21vbml0b3JlbyIsImljb25vIjoiY2FsZW5kYXJfbW9udGgiLCJmZWNoYV9jcmVhY2lvbiI6IjEyLTEyLTIwMjMifV19.lC9xLEl4X_rf2LzfDQ_UeKUCUK1Rb4quFwHhYdPYU8k"
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEyMzQ1Njc4OTAiLCJuYW1lIjoiSm9obiBEb2UiLCJwYXNzd29yZCI6IjEyMyIsInJvbCI6MSwicHJvZmlsZSI6MiwiaXRlbXMiOlt7ImlkIjo5LCJub21icmVfZnVuY2lvbmFsaWRhZCI6IkluaWNpbyIsImxpbmsiOiIvaW5pY2lvIiwiaWNvbm8iOiJob21lIiwiZmVjaGFfY3JlYWNpb24iOiIxMi0xMi0yMDIzIiwiZXN0YWRvIjoxfSx7ImlkIjoxLCJub21icmVfZnVuY2lvbmFsaWRhZCI6IlByb2Nlc29zIiwibGluayI6Ii9wcm9jZXNvcyIsImljb25vIjoid2F0Y2hfbGF0ZXIiLCJmZWNoYV9jcmVhY2lvbiI6IjEyLTEyLTIwMjMiLCJlc3RhZG8iOjF9LHsiaWQiOjIsIm5vbWJyZV9mdW5jaW9uYWxpZGFkIjoiUmVwb3J0ZXMiLCJsaW5rIjoiL3JlcG9ydGVzIiwiaWNvbm8iOiJkb251dF9zbWFsbCIsImZlY2hhX2NyZWFjaW9uIjoiMTItMTItMjAyMyIsImVzdGFkbyI6MX0seyJpZCI6Mywibm9tYnJlX2Z1bmNpb25hbGlkYWQiOiJNb25pdG9yZW8iLCJsaW5rIjoiL21vbml0b3JlbyIsImljb25vIjoiY2FsZW5kYXJfbW9udGgiLCJmZWNoYV9jcmVhY2lvbiI6IjEyLTEyLTIwMjMiLCJlc3RhZG8iOjF9XX0.5hAzh7HUaF32doHxGCFykQbfHHu-7B8aiJ0gz4MZ6fo"
     }
   ],
   "autorizacion": [
@@ -44,14 +44,12 @@
       "childs": [
         {
           "modulo": "Mantenimiento",
-          "link": "/seguridad/mantenimiento",
           "icono": "donut_small",
           "fecha_creacion": "12-12-2023"
         },
         {
-          "modulo": "Permisos",
+          "modulo": "Asignación de perfiles",
           "link": "/seguridad/asignacion",
-          "icono": "calendar_month",
           "fecha_creacion": "12-12-2023"
         }
       ]
@@ -62,48 +60,82 @@
       "icon": "settings"
     }
   ],
-  "funcionalidad": [
+  "funcionality": [
     {
-      "modulo": "Procesos",
-      "link": "/procesos",
+      "id": 1,
+      "nombre_funcionalidad": "Procesos",
+      "link": "procesos",
       "icono": "watch_later",
-      "fecha_creacion": "12-12-2023"
+      "fecha_creacion": "2023-12-09T19:54:33.371Z",
+      "estado": 1
     },
     {
-      "modulo": "Reportes",
-      "link": "/reportes",
+      "id": 2,
+      "nombre_funcionalidad": "Reportes",
+      "link": "reportes",
       "icono": "donut_small",
-      "fecha_creacion": "12-12-2023"
+      "fecha_creacion": "2023-12-09T19:54:33.371Z",
+      "estado": 1
     },
     {
-      "modulo": "Monitoreo",
-      "link": "/monitoreo",
+      "id": 3,
+      "nombre_funcionalidad": "Monitoreo",
+      "link": "monitoreo",
       "icono": "calendar_month",
-      "fecha_creacion": "12-12-2023"
+      "fecha_creacion": "2023-12-09T19:54:33.371Z",
+      "estado": 1
     },
     {
-      "modulo": "Seguridad",
-      "link": "/seguridad",
+      "id": 4,
+      "nombre_funcionalidad": "Seguridad",
+      "link": "seguridad",
       "icono": "lock",
-      "fecha_creacion": "12-12-2023"
+      "fecha_creacion": "2023-12-09T19:54:33.371Z",
+      "estado": 1
     },
     {
-      "modulo": "Mantenimiento",
-      "link": "/seguridad/mantenimiento",
-      "icono": "donut_small",
-      "fecha_creacion": "12-12-2023"
-    },
-    {
-      "modulo": "Permisos",
-      "link": "/seguridad/asignacion",
-      "icono": "calendar_month",
-      "fecha_creacion": "12-12-2023"
-    },
-    {
-      "modulo": "Configuración",
-      "link": "/configuracion",
+      "id": 5,
+      "nombre_funcionalidad": "Configuración",
+      "link": "configuracion",
       "icono": "settings",
-      "fecha_creacion": "12-12-2023"
+      "fecha_creacion": "2023-12-09T19:54:33.371Z",
+      "estado": 1
+    },
+    {
+      "id": 6,
+      "nombre_funcionalidad": "Test",
+      "link": "configuracion",
+      "icono": "home",
+      "fecha_creacion": "2023-12-11T03:07:23.339Z",
+      "estado": 0
+    },
+    {
+      "id": 7,
+      "nombre_funcionalidad": "Borrar",
+      "link": "reportes",
+      "icono": "home",
+      "fecha_creacion": "2023-12-11T02:52:19.866Z",
+      "estado": 0
+    }
+  ],
+  "sub-funcionalidad": [
+    {
+      "id": 1,
+      "id_funcionalidad": 4,
+      "nombre_subfuncionalidad": "Mantenimiento",
+      "link": "seguridad/mantenimiento",
+      "icono": "donut_small",
+      "fecha_creacion": "12-12-2023",
+      "estado": 1
+    },
+    {
+      "id": 2,
+      "id_funcionalidad": 4,
+      "nombre_subfuncionalidad": "Asignacion de accesos",
+      "link": "seguridad/asignacion",
+      "icono": "calendar_month",
+      "fecha_creacion": "12-12-2023",
+      "estado": 1
     }
   ],
   "procesos": [
@@ -499,7 +531,7 @@
       ]
     }
   ],
-  "monitoreo":[
+  "monitoreo": [
     {
       "id": 1,
       "fecha_proceso": "10-10-2023",
@@ -535,6 +567,285 @@
       "estado": 1,
       "secuencia": "23456147258",
       "detalle": []
+    }
+  ],
+  "perfiles_API": [
+    {
+      "message": "Perfil consulta exitosamente",
+      "status": 1,
+      "data": [
+        {
+          "estado": 1,
+          "fecha_creacion": "Sun, 01 Jam 2023 00:00:00 GMT",
+          "id_perfil": 1,
+          "nombre_perfil": "Operaciones"
+        },
+        {
+          "estado": 1,
+          "fecha_creacion": "Sun, 01 Jam 2023 00:00:00 GMT",
+          "id_perfil": 2,
+          "nombre_perfil": "Contabilidad"
+        },
+        {
+          "estado": 1,
+          "fecha_creacion": "Sun, 01 Jam 2023 00:00:00 GMT",
+          "id_perfil": 3,
+          "nombre_perfil": "Administrador"
+        },
+        {
+          "estado": 0,
+          "fecha_creacion": "Sun, 01 Jam 2023 00:00:00 GMT",
+          "id_perfil": 4,
+          "nombre_perfil": "Ejemplo"
+        }
+      ]
+    }
+  ],
+  "perfiles": [
+    {
+      "id": 2,
+      "fecha_creacion": "Sun, 01 Jam 2023 00:00:00 GMT",
+      "nombre_perfil": "Contabilidad",
+      "estado": 0
+    },
+    {
+      "id": 3,
+      "fecha_creacion": "Sun, 01 Jam 2023 00:00:00 GMT",
+      "nombre_perfil": "Administrador",
+      "estado": 1
+    },
+    {
+      "id": 4,
+      "fecha_creacion": "2023-12-05T21:07:50.516Z",
+      "nombre_perfil": "nuevo",
+      "estado": 1
+    }
+  ],
+  "permisos": [
+    {
+      "id": 1,
+      "estado": 0,
+      "fecha_creacion": "Sun, 01 Jan 2023 00:00:00 GMT",
+      "nombre_permiso": "lectura"
+    },
+    {
+      "id": 2,
+      "estado": 0,
+      "fecha_creacion": "Sun, 01 Jan 2023 00:00:00 GMT",
+      "nombre_permiso": "escritura"
+    },
+    {
+      "id": 3,
+      "fecha_creacion": "2023-12-13T17:31:44.414Z",
+      "nombre_permiso": "actualización",
+      "estado": 0
+    },
+    {
+      "id": 4,
+      "fecha_creacion": "2023-12-13T17:31:44.414Z",
+      "nombre_permiso": "eliminacion",
+      "estado": 0
+    }
+  ],
+  "usuario": [
+    {
+      "id": 1,
+      "usuario": "cacevedo",
+      "nombres": "charles",
+      "apellido_paterno": "acevedo",
+      "apellido_materno": "acevedo",
+      "correo": "correo@correo.com",
+      "fecha_creacion": "Sun, 01 Jam 2023 00:00:00 GMT"
+    },
+    {
+      "id": 2,
+      "usuario": "cacevedo",
+      "nombres": "charlie",
+      "apellido_paterno": "acevedo",
+      "apellido_materno": "acevedo",
+      "correo": "correo@correo.com",
+      "fecha_creacion": "Sun, 01 Jam 2023 00:00:00 GMT"
+    },
+    {
+      "id": 3,
+      "usuario": "cacevedo",
+      "nombres": "charles",
+      "apellido_paterno": "acevedo",
+      "apellido_materno": "acevedo",
+      "correo": "correo@correo.com",
+      "fecha_creacion": "Sun, 01 Jam 2023 00:00:00 GMT"
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "fecha_creacion": "Sun, 01 Jam 2023 00:00:00 GMT",
+      "nombre_rol": "Usuario consulta",
+      "estado": 0
+    },
+    {
+      "id": 2,
+      "fecha_creacion": "Sun, 01 Jam 2023 00:00:00 GMT",
+      "nombre_rol": "Usuario Lectura",
+      "estado": 1
+    },
+    {
+      "id": 3,
+      "fecha_creacion": "2023-12-05T21:07:50.516Z",
+      "nombre_rol": "Usuario operador",
+      "estado": 1
+    },
+    {
+      "id": 529663,
+      "fecha_creacion": "2023-12-12T06:57:43.518Z",
+      "nombre_rol": "borrar",
+      "estado": 0
+    }
+  ],
+  "peril-admin": [
+    {
+      "data": [
+        {
+          "id_asig_perfiles": 1,
+          "id_perfil": 1,
+          "id_funcionalidad": 1,
+          "fecha_creacion": "Tue, 12 Dec 2023 00:00:00 GMT",
+          "estado": 1
+        },
+        {
+          "id_asig_perfiles": 2,
+          "id_perfil": 1,
+          "id_funcionalidad": 2,
+          "fecha_creacion": "Tue, 12 Dec 2023 00:00:00 GMT",
+          "estado": 1
+        },
+        {
+          "id_asig_perfiles": 3,
+          "id_perfil": 1,
+          "id_funcionalidad": 3,
+          "fecha_creacion": "Tue, 12 Dec 2023 00:00:00 GMT",
+          "estado": 1
+        },
+        {
+          "id_asig_perfiles": 4,
+          "id_perfil": 1,
+          "id_funcionalidad": 4,
+          "fecha_creacion": "Tue, 12 Dec 2023 00:00:00 GMT",
+          "estado": 1
+        }
+      ],
+      "message": "funcionalidad consulta exitosamente",
+      "status": 1
+    }
+  ],
+  "perfil-conta": [
+    {
+      "data": [
+        {
+          "id_asig_perfiles": 1,
+          "id_perfil": 1,
+          "id_funcionalidad": 1,
+          "fecha_creacion": "Tue, 12 Dec 2023 00:00:00 GMT",
+          "estado": 1
+        },
+        {
+          "id_asig_perfiles": 2,
+          "id_perfil": 1,
+          "id_funcionalidad": 2,
+          "fecha_creacion": "Tue, 12 Dec 2023 00:00:00 GMT",
+          "estado": 1
+        },
+        {
+          "id_asig_perfiles": 3,
+          "id_perfil": 1,
+          "id_funcionalidad": 3,
+          "fecha_creacion": "Tue, 12 Dec 2023 00:00:00 GMT",
+          "estado": 1
+        },
+        {
+          "id_asig_perfiles": 4,
+          "id_perfil": 1,
+          "id_funcionalidad": 4,
+          "fecha_creacion": "Tue, 12 Dec 2023 00:00:00 GMT",
+          "estado": 1
+        }
+      ],
+      "message": "funcionalidad consulta exitosamente",
+      "status": 1
+    }
+  ],
+  "rol-lectura": [
+    {
+      "data": [
+        {
+          "id_asig_roles": 1,
+          "id_roles": 1,
+          "id_permisos": 1,
+          "fecha_creacion": "Tue, 12 Dec 2023 00:00:00 GMT",
+          "estado": 1
+        },
+        {
+          "id_asig_roles": 2,
+          "id_roles": 1,
+          "id_permisos": 2,
+          "fecha_creacion": "Tue, 12 Dec 2023 00:00:00 GMT",
+          "estado": 1
+        },
+        {
+          "id_asig_roles": 3,
+          "id_roles": 1,
+          "id_permisos": 4,
+          "fecha_creacion": "Tue, 12 Dec 2023 00:00:00 GMT",
+          "estado": 1
+        }
+      ],
+      "message": "funcionalidad consulta exitosamente",
+      "status": 1
+    }
+  ],
+  "rol-escritura": [
+    {
+      "data": [
+        {
+          "id_asig_roles": 1,
+          "id_roles": 1,
+          "id_permisos": 1,
+          "fecha_creacion": "Tue, 12 Dec 2023 00:00:00 GMT",
+          "estado": 1
+        },
+        {
+          "id_asig_roles": 2,
+          "id_roles": 1,
+          "id_permisos": 2,
+          "fecha_creacion": "Tue, 12 Dec 2023 00:00:00 GMT",
+          "estado": 1
+        },
+        {
+          "id_asig_roles": 3,
+          "id_roles": 1,
+          "id_permisos": 3,
+          "fecha_creacion": "Tue, 12 Dec 2023 00:00:00 GMT",
+          "estado": 1
+        }
+      ],
+      "message": "funcionalidad consulta exitosamente",
+      "status": 1
+    }
+  ],
+  "asignacion": [
+    {
+      "data": [
+        {
+          "id_asig_accesos": 1,
+          "id_usuario": 1,
+          "id_asig_perfiles": 1,
+          "id_asig_roles": 1,
+          "fecha_creacion": "Tue, 12 Dec 2023 00:00:00 GMT",
+          "estado": 1
+        }
+      ],
+      "message": "funcionalidad consulta exitosamente",
+      "status": 1
     }
   ]
 }
